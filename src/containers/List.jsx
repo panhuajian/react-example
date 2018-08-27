@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {get} from '../fetch/index';
+import { get } from '../fetch/index';
 
 class List extends Component {
     constructor(props) {
