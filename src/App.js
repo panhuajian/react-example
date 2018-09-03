@@ -11,10 +11,10 @@ class App extends Component {
     render() {
         return (
             <div className="App">
-                <div className="App-header">
+                {/* <div className="App-header">
                     <img src={logo} className="App-logo" alt="logo" />
                     <h2 className='App-title'>Welcome to React Plan</h2>
-                </div>
+                </div> */}
                 <div className="App-content">
                     {/*路由配置*/}
                     <Router>

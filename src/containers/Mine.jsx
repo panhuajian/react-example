@@ -16,6 +16,7 @@ class Mine extends Component {
         })
     }
     render() {
+        console.log(this)
         return (
             <Router>
                 <div>
